@@ -4,7 +4,7 @@ function aboutUs() {
     return (
         <div className="flex flex-col w-full max-w-3xl">
             <div className="p-8">
-                <h2 className="mb-8 text-xl font-medium">Test update</h2>
+                <h2 className="mb-8 text-xl font-medium">About us</h2>
                 <p className="mb-4">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Proin ex neque, gravida quis volutpat vitae, sollicitudin
