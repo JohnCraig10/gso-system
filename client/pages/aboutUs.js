@@ -2,7 +2,7 @@ import React from "react";
 
 function aboutUs() {
     return (
-        <div className="flex flex-col w-full max-w-3xl">
+        <div className="flex flex-col w-full max-w-5xl">
             <div className="p-8">
                 <h2 className="mb-8 text-xl font-medium">About us</h2>
                 <p className="mb-4">

@@ -87,11 +87,11 @@ function Sidebar() {
                         <p>Route</p>
                     </div>
                     <div
-                        onClick={() => router.push("/announcement")}
+                        onClick={() => router.push("/announcements")}
                         className="flex items-center py-3 pl-6 border-gray-300 hover:cursor-pointer hover:bg-gray-700"
                     >
                         <Icon className="w-6 h-6 mr-4" icon="mdi:bullhorn" />
-                        <p>Announcement</p>
+                        <p>Announcements</p>
                     </div>
                     <div
                         onClick={() => router.push("/concerns")}

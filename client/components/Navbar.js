@@ -33,7 +33,10 @@ function Navbar({ userData }) {
                             className="mr-2 rounded-full "
                         />
                         <p className="">{user?.username}</p>
-                        <p>&nbsp;|&nbsp;{user?.barangayName}</p>
+                        <p>
+                            &nbsp;|&nbsp;
+                            {user?.barangayName ? user?.barangayName : "GSO"}
+                        </p>
                     </div>
                 </div>
             )}
