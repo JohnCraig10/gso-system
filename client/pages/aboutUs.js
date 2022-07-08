@@ -28,6 +28,9 @@ function aboutUs() {
                     ut consequat dui. Proin quis erat posuere, pharetra lectus
                     eu, suscipit purus.
                 </p>
+                <p>
+                    Benj
+                </p>
                 <h2 className="mt-8 mb-4 text-xl font-medium">Contact us</h2>
                 <p>Email: juandelacruz@gmail.com</p>
                 <p>Phone number: 09123456789</p>
